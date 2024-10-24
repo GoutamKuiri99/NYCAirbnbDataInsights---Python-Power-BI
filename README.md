@@ -88,84 +88,46 @@ Identify and handle outliers to maintain the quality of the data analysis.
 ## Project Overview
 A comprehensive dashboard analyzing Airbnb listing trends and customer satisfaction metrics from 2003 to 2018, showcasing room type distribution, host patterns, and review performance.
 
-### 📊 Key Metrics
+### 📊 Key Metrics    
 
->- **Total Hosts:** 84.4K
->- **Average Price:** $626.3
->- **Total Listings:** 84.4K
->- **Average Review Score:** 32.3
-
-
-
-📈 Listing Distribution Analysis
-Room Type Breakdown (2003-2018)
-
-Entire homes/apartments: 44,680 listings (53.0%)
-Private rooms: 37,947 listings (45.0%)
-Shared rooms: 1,662 listings (2.0%)
-Hotel rooms: 112 listings (0.1%)
-
-Year-Over-Year Growth
-
-2003: 4,214 total listings
-2010: 4,225 listings (stable growth)
-2015: 4,280 listings (moderate increase)
-2018: 4,206 listings (slight decline)
-
-⭐ Review Performance
-Average Reviews by Room Type
-
-Hotel Rooms: 86.09 (Highest rated)
-
-Consistently maintaining premium service quality
-Despite low inventory, highest customer satisfaction
-
-
-Private Rooms: 32.88
-
-Second-best reviewed category
-Balanced price-to-satisfaction ratio
-
-
-Entire Homes/Apartments: 31.80
-
-Stable review performance
-Large inventory maintaining consistent quality
-
-
-Shared Rooms: 26.60
-
-Lower review scores but viable market segment
-Opportunity for improvement
+>- **Total Hosts:** 84.4K   
+>- **Average Price:** $626.3    
+>- **Total Listings:** 84.4K   
+>- **Average Review Score:** 32.3   
 
 
 
-📊 Yearly Trends Analysis
-Listing Pattern Insights
+## 📈 Listing Distribution Analysis    
+### Room Type Breakdown (2003-2018)
 
-Entire Homes/Apartments:
+>- Entire homes/apartments: 44,680 listings (53.0%)   
+>- Private rooms: 37,947 listings (45.0%)    
+>- Shared rooms: 1,662 listings (2.0%)    
+>- Hotel rooms: 112 listings (0.1%)    
 
-Consistent leader in inventory
-Average yearly count: ~2,200-2,300 units
-Peak in 2014 with 2,326 listings
+## Year-Over-Year Growth     
+
+>- 2003: 4,214 total listings        
+>- 2010: 4,225 listings (stable growth)       
+>- 2015: 4,280 listings (moderate increase)     
+>- 2018: 4,206 listings (slight decline)   
+
+## ⭐ Review Performance
+### Average Review Scores by Room Type
+
+>- 1. Hotel Rooms: 86.09 (Highest rated)
+>- 2. Private Rooms: 32.88
+>- 3. Entire Homes: 31.80
+>- 4. Shared Rooms: 26.60
+
+## 💡 Recommendations
+### For Hosts
+
+>- Consider hotel room format for highest guest satisfaction       
+>- Focus on private room quality to maintain competitive advantage       
+>- Implement strategies to improve shared room experiences       
+>- Monitor yearly trends for optimal listing timing       
+
+Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me https://www.linkedin.com/in/goutam-kuiri-949b632a6
 
 
-Private Rooms:
-
-Strong second position
-Stable range of 1,850-1,980 listings
-Peak in 2018 with 1,959 listings
-
-
-Hotel Rooms:
-
-Limited but growing presence
-Range: 3-9 listings per year
-Peak in 2007 with 9 listings
-
-
-Shared Rooms:
-
-Fluctuating inventory
-Range: 64-110 rooms
-Peak in 2018 with 110 listings
