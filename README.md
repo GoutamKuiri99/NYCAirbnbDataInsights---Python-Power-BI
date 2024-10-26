@@ -1,5 +1,9 @@
 # NYC Airbnb Analysis: Insights with Python and Power BI
 
+
+https://github.com/user-attachments/assets/cdec51ee-975b-4d03-9ce2-ff44696ced23
+
+
 ## Overview: 
 Airbnb, Inc. is a leading American company that operates a prominent online marketplace for lodging, primarily focusing on vacation rentals and unique accommodations.
 
